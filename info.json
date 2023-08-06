@@ -7,5 +7,5 @@
 	"contact": "Open a new issue on Github or on forums",
 	"factorio_version": "1.1",
 	"dependencies": ["base >= 1.1.26"],
-	"description": "Reduces the cost of low density structures, now your copper lines can live in peace."
+	"description": "Reduces the cost of low density structures, now your copper lines can live in peace, or maybe you want to make them suffer.\n\nConfigure item prices in mod configuration."
 }
